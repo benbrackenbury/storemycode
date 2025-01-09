@@ -1,0 +1,3 @@
+# StoreMyCode.nvim
+
+For Neovim
